@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JsonApiDemo</string>
+
+    <string name="edit_text_search">Search</string>
+    <string name="btn_view_posts">Posts</string>
+    <string name="btn_view_comments">Comments</string>
+    <string name="generic_message_progress">data downloading</string>
+    <string name="generic_error">Please check internet connection</string>
+    <string name="accept">Accept</string>
+    <string name="list_is_empty">List is empty</string>
+</resources>
